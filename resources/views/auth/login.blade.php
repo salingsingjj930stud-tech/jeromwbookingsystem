@@ -44,10 +44,10 @@
             <button type="submit" class="btn" style="width:100%;">Sign In &rarr;</button>
         </form>
 
-        <div style="margin-top:2rem; border-top:1px solid #2a2a2a; padding-top:1.5rem;">
-            <p style="color:#555; font-size:0.72rem; letter-spacing:2px; text-transform:uppercase; margin-bottom:0.8rem;">Test Accounts</p>
-            <p style="color:#666; font-size:0.78rem; margin-bottom:0.3rem;">&#9670; Admin: admin@noir.com / admin123</p>
-            <p style="color:#666; font-size:0.78rem;">&#9670; Customer: customer@noir.com / customer123</p>
-        </div>
+       <div class="test-accounts">
+    <p>TEST ACCOUNTS</p>
+    <p>◆ Admin: admin@noir.com / admin123</p>
+    <p>◆ Customer: customer@noir.com / customer123</p>
+</div>
     </div>
 @endsection
