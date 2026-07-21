@@ -227,7 +227,7 @@ public function calendarEvents(Request $request)
     }
 
     public function adminUpdate(Request $request, Booking $booking)
-    {
+    {   
         $request->validate([
             'customer_name' => ['required', 'string'],
             'booking_id'    => ['required', 'regex:/^[A-Za-z0-9]{8}$/', 'unique:bookings,booking_id,' . $booking->id],

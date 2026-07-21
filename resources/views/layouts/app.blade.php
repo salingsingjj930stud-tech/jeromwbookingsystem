@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Noir Residence — Reservation Portal</title>
+    <title>Lee Residence — Reservation Portal</title>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&family=Montserrat:wght@300;400;500&display=swap" rel="stylesheet">
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -127,6 +127,6 @@
         @yield('content')
     </div>
 
-    <footer>&#9670; &nbsp; Noir Residence &nbsp; &#9670; &nbsp; Luxury Reservation Portal &nbsp; &#9670;</footer>
+    <footer>&#9670; &nbsp; Lee Residence &nbsp; &#9670; &nbsp; Luxury Reservation Portal &nbsp; &#9670;</footer>
 </body>
 </html>
