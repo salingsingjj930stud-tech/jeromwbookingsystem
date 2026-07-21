@@ -45,9 +45,6 @@
         </form>
 
        <div class="test-accounts">
-    <p>TEST ACCOUNTS</p>
-    <p>◆ Admin: admin@noir.com / admin123</p>
-    <p>◆ Customer: customer@noir.com / customer123</p>
-</div>
+  
     </div>
 @endsection
